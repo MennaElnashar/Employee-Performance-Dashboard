@@ -28,6 +28,8 @@ As part of this project, I developed a dashboard to monitor **employee performan
 - **Performance Metrics**: Displays key performance indicators and trends.
 - **Gender-Based Analysis**: Provides insights into performance metrics segmented by gender.
 
+### Viewer Link
+You can view the live dashboard here: [Employee Performance Dashboard](https://lookerstudio.google.com/reporting/e5f50546-0cbd-4f82-9902-e136ebf9f33e)
 
 ## Acknowledgements
 
